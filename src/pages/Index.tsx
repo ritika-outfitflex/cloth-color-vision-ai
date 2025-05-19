@@ -23,7 +23,7 @@ const Index = () => {
               <li>Upload an image of clothing or fashion item</li>
               <li>Our AI will remove the background automatically</li>
               <li>The system analyzes and identifies the dominant colors</li>
-              <li>Results show color hexadecimal codes and proportions</li>
+              <li>Results show color names, hexadecimal codes and proportions</li>
             </ol>
           </div>
           
